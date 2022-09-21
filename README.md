@@ -14,9 +14,6 @@
 
 
 
-<img src="https://ibb.co/60x64cQ">
-
-
 ### SHELL SCRIPTING
 
 * files are in **SHELL-SCRIPTING** folder. Steps:
