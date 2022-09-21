@@ -4,12 +4,16 @@
 
 * query file is in path **MONGO/query.txt**
 * see query result:
-<img src="https://ibb.co/NjKbpr7">
+![Mongo](https://github.com/brtuynk/vodafone/blob/master/mongo/mongo.png)
 
 ### ORACLE
 
 * sql file is in path **ORACLE/query.sql**
 * see query result:
+![oracle](https://github.com/brtuynk/vodafone/blob/master/oracle/oracle.png)
+
+
+
 <img src="https://ibb.co/60x64cQ">
 
 
@@ -26,4 +30,4 @@
 
 ### DEVOPS
 
-* You can access Springboot "Hello World" project with kubernetes and ingress using Jenkins from here: [demoapp](https://github.com/brtuynk/vodafone-k8s.git) 
+* You can access Springboot "Hello World" project with kubernetes and ingress using Jenkins from here: [demoapp](https://github.com/brtuynk/demoapp.git) 
